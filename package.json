@@ -1,0 +1,9 @@
+{
+  "name": "react-test",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/Jeong-hoyun/react-19.git",
+  "author": "HY J <71399143+Jeong-hoyun@users.noreply.github.com>",
+  "license": "MIT",
+  "private": false
+}
